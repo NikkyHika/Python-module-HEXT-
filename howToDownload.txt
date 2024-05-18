@@ -1,0 +1,1 @@
+Copy hext.py to the Lib folder with Python installed, the folder can be found using the "where python" command in the command line.
